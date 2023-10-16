@@ -1,6 +1,6 @@
 # ibbe321
  programmering
-I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+I'm Ibbe, a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
 
 ## About Me
 
